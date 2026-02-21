@@ -23,11 +23,20 @@ INSTRUCTIONS
   
 <img width="401" height="438" alt="image" src="https://github.com/user-attachments/assets/52fd4f55-9416-4b6e-ad9d-67d131ff7046" />
 
+
+
+
 results: 
+
+
 Before:
+
+
 ![guy-pointing-at-himself](https://github.com/user-attachments/assets/84e20e44-4c27-49c1-a968-b36c86c22cb4)
 
 after:
+
+
 <img width="800" height="450" alt="guy-pointing-at-himself_bgRemoved" src="https://github.com/user-attachments/assets/b7c4d2ea-8651-4373-9715-30ab24a73857" />
 
 
