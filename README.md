@@ -9,3 +9,8 @@ Supported extensions
 I created this cos i hate ads.
 
 I DONT KNOW HOW TO BUILD THE APP IN ORDER TO MAKE AN EXE FILE LOL
+(built one but i dunno if it works)
+
+big credits to
+- rembg (This is the main library i used for image background removal)
+- Pillow 
