@@ -20,6 +20,8 @@ INSTRUCTIONS
 - make sure you have rembg, pillow, AND PYTHON
 - just run it
 - enjoy removing backgrounds
+
+How basic my app looks like
   
 <img width="401" height="438" alt="image" src="https://github.com/user-attachments/assets/52fd4f55-9416-4b6e-ad9d-67d131ff7046" />
 
